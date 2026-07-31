@@ -1,6 +1,8 @@
 # Histogram Equalization Using OpenCV (Grayscale & Color Images)
 
 ---
+## NAME: PRABANJAN R
+## REG.NO: 212224230198
 
 ## Aim
 
@@ -149,12 +151,6 @@ plt.title('Histogram Equalized')
 
 plt.show()
 ```
-
-### Developed By:.
-**Name:** SAIPRASATH P 
-
-### Register No:
-212224230238
 
 ---
 
